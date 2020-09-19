@@ -44,19 +44,19 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 100px;
-  top: 100px;
+  left: 130px;
+  top: 200px;
 }
 
 .top-cloud {
   position: absolute;
-  left: 50px;
+  left: 100px;
   top: 60px;
 }
 
 .right-cloud {
   position: absolute;
-  right: 50px;
+  right: 40px;
   top: 65px;
 }
 .mountain {
