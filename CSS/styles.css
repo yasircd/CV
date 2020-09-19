@@ -27,7 +27,7 @@ h1 {
   color: #006a71;
   margin: 0 auto 0 auto;
   font-size: 80px;
-  font-family: "Dhanikans Signature",sans-serif;
+  font-family: "Dhanikans Signature",fantasy;
 }
 
 p {
@@ -44,20 +44,20 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 15%;
-  top: 50%;
+  left: 100px;
+  top: 100px;
 }
 
 .top-cloud {
   position: absolute;
-  left: 25%;
-  top: 20%;
+  left: 50px;
+  top: 60px;
 }
 
 .right-cloud {
   position: absolute;
-  right: 10%;
-  top: 15%;
+  right: 50px;
+  top: 65px;
 }
 .mountain {
   width: 100%;
