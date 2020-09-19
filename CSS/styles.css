@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #cbeaed;
+  position: relative;
+  padding-top: 50px;
+  margin: 0;
+
+}
+
+.mid-container {
+  background-color: #2d4059;
+  height: 200px;
+  width: 200px;
+}
+
+.botom-container {
+    background-color: #ea5455;
+  height: 200px;
+  width: 200px;
+}
+
+h1 {
+  color: #006a71;
+  margin: 0 auto 0 auto;
+  font-size: 80px;
+  font-family: "Dhanikans Signature",sans-serif;
+}
+
+p {
+  color: #2d4059;
+  font-size: 20px;
+  font-family: "Alianza Slab 400";
+  margin: 0;
+}
+
+.pro {
+  color: #ea5455;
+  font-size: 25px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  top: 50%;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 25%;
+  top: 20%;
+}
+
+.right-cloud {
+  position: absolute;
+  right: 10%;
+  top: 15%;
+}
+.mountain {
+  width: 100%;
+}
