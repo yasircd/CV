@@ -50,13 +50,13 @@ p {
 
 .top-cloud {
   position: absolute;
-  left: 250px;
+  left: 180px;
   top: 60px;
 }
 
 .right-cloud {
   position: absolute;
-  right: 170px;
+  right: 140px;
   top: 65px;
 }
 .mountain {
