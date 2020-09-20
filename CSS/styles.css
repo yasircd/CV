@@ -4,11 +4,13 @@ body {
 }
 @font-face {
   font-family: 'MyWebFont';
-  src:  url('Alianza Slab 400.otf') format('opentype');
-        url('Dhanikans Signature Italic_dafont.ttf') format('truetype');
+  src:   url('Dhanikans Signature Italic_dafont.ttf') format('truetype');
 }
 
-
+@font-face {
+  font-family: 'MyWebFont1';
+  src:  url('Alianza Slab 400.otf') format('opentype');
+}
 .top-container {
   background-color: #cbeaed;
   position: relative;
@@ -39,7 +41,7 @@ h1 {
 p {
   color: #2d4059;
   font-size: 20px;
-  font-family: 'MyWebFont', "Alianza Slab 400", sans-serif;
+  font-family: 'MyWebFont1', "Alianza Slab 400", sans-serif;
   margin: 0;
 }
 
