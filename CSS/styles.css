@@ -4,7 +4,7 @@ body {
 }
 @font-face {
   font-family: 'MyWebFont';
-  src:  url('Alianza Slab 400.otf') format('opentype'),
+  src:  url('Alianza Slab 400.otf') format('Typeface'),
         url('Dhanikans Signature Italic_dafont.ttf') format('truetype');
 }
 
