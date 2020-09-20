@@ -2,6 +2,11 @@ body {
   margin: 0;
   text-align: center;
 }
+@font-face {
+  font-family: 'MyWebFont';
+  src:  url('Alianza Slab 400.otf') format('otf'),
+        url('Dhanikans Signature Italic_dafont.ttf') format('ttf');
+}
 
 .top-container {
   background-color: #cbeaed;
