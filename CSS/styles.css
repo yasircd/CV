@@ -6,7 +6,7 @@
 @font-face {
   font-family: 'MyWebFont1';
   src:  url('Alianza Slab 400.otf') format('opentype');
- 
+}
  body {
   margin: 0;
   text-align: center;
