@@ -24,6 +24,14 @@
   background-color: #f9f9f9;
 }
 
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+
 .botom-container {
     background-color: #ffe0ac;
 }
@@ -67,18 +75,21 @@ p {
   position: absolute;
   left: 150px;
   top: 250px;
+  width: 8%;
 }
 
 .top-cloud {
   position: absolute;
   left: 250px;
   top: 60px;
+  width: 10%;
 }
 
 .right-cloud {
   position: absolute;
   right: 170px;
   top: 65px;
+  width: 13%;
 }
 .hill {
   width: 100%;
