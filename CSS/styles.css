@@ -73,22 +73,22 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 150px;
-  top: 250px;
+  left: 12%;
+  top: 50%;
   width: 8%;
 }
 
 .top-cloud {
   position: absolute;
-  left: 250px;
-  top: 60px;
+  left: 18%;
+  top: 14%;
   width: 10%;
 }
 
 .right-cloud {
   position: absolute;
-  right: 170px;
-  top: 65px;
+  right: 10%;
+  top: 15%;
   width: 13%;
 }
 .hill {
